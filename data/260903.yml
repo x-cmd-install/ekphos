@@ -1,0 +1,59 @@
+about:
+  description: A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
+  license: MIT
+  homepage: https://ekphos.nostacks.xyz
+  head: e5ebf56
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-09-03T04:44:01Z
+timeline:
+  created: 2026-09-01
+  lastCommit: 2026-09-01
+  lastRelease: ?
+popularity:
+  star: 2
+  watcher: 0
+  fork: 0
+  release: 0
+  contributor: 1
+  pullRequest: 0
+  issue: 0
+language:
+  Rust: 1721808
+  Makefile: 6043
+  Dockerfile: 2700
+  Nix: 2152
+totalLine: 1732703
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 11
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 17
+  last180d:
+    since: 2026-03-07
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 49
+  last360d:
+    since: 2025-09-08
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 236
