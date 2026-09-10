@@ -12,6 +12,18 @@ A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
 x install ekphos
 ```
 
+## Code insight
+
+Total: **37,637** lines of code across **123** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 36,913 | 145 | 2,274 | 106 |
+| Toml | 470 | 27 | 52 | 14 |
+| Makefile | 132 | 27 | 28 | 1 |
+| Nix | 65 | 1 | 9 | 1 |
+| Dockerfile | 39 | 15 | 15 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/hanebox/ekphos>
@@ -31,20 +43,20 @@ x install ekphos
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 11 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 17 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 17 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 47 |
 | 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 236 |
+| last720d | 2024-09-20 | 0 | 0 | 0 | 0 | 0 | 252 |
 
-## Code size
+## Distribution status
 
-Total: **37,637** lines of code across **123** files in the top 5 languages.
+Reported by **10** distros on [repology.org](https://repology.org/project/ekphos). **7** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 36,913 | 145 | 2,274 | 106 |
-| Toml | 470 | 27 | 52 | 14 |
-| Makefile | 132 | 27 | 28 | 1 |
-| Nix | 65 | 1 | 9 | 1 |
-| Dockerfile | 39 | 15 | 15 | 1 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.25.10` | ✅ latest |
+| Alpine edge | `0.25.10` | ✅ latest |
 
 ## Improve this data
 
@@ -55,4 +67,4 @@ Install metadata for ekphos lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:07:54Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:16:41Z._
