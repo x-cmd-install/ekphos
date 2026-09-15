@@ -14,12 +14,12 @@ x install ekphos
 
 ## Code insight
 
-Total: **37,637** lines of code across **123** files in the top 5 languages.
+Total: **40,980** lines of code across **120** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 36,913 | 145 | 2,274 | 106 |
-| Toml | 470 | 27 | 52 | 14 |
+| Rust | 40,438 | 145 | 2,593 | 112 |
+| Toml | 288 | 30 | 41 | 5 |
 | Makefile | 132 | 27 | 28 | 1 |
 | Nix | 65 | 1 | 9 | 1 |
 | Dockerfile | 39 | 15 | 15 | 1 |
@@ -30,24 +30,29 @@ Total: **37,637** lines of code across **123** files in the top 5 languages.
 - **Homepage**: <https://ekphos.nostacks.xyz>
 - **License**: MIT
 
+## Release
+
+- **Latest**: `v0.50.0` (2026-09-14)
+- **Last commit**: 2026-09-14
+
 ## Popularity
 
 - **Stars**: 3 · **Forks**: 0 · **Open issues**: 0 · **Contributors**: 1
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 252
+- **Releases**: 1 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 265
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 9 |
-| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 17 |
-| 90d | 2026-06-16 | 0 | 0 | 0 | 0 | 0 | 17 |
-| last180d | 2026-03-18 | 0 | 0 | 0 | 0 | 0 | 47 |
-| 360d | 2025-09-19 | 0 | 0 | 0 | 0 | 0 | 236 |
-| last720d | 2024-09-24 | 0 | 0 | 0 | 0 | 0 | 252 |
+| 30d | 2026-08-16 | 1 | 0 | 0 | 0 | 0 | 22 |
+| last60d | 2026-07-17 | 1 | 0 | 0 | 0 | 0 | 30 |
+| 90d | 2026-06-17 | 1 | 0 | 0 | 0 | 0 | 30 |
+| last180d | 2026-03-19 | 1 | 0 | 0 | 0 | 0 | 60 |
+| 360d | 2025-09-20 | 1 | 0 | 0 | 0 | 0 | 249 |
+| last720d | 2024-09-25 | 1 | 0 | 0 | 0 | 0 | 265 |
 
 ## Improve this data
 
@@ -58,4 +63,4 @@ Install metadata for ekphos lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T02:12:55Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T02:19:03Z._
