@@ -14,12 +14,12 @@ x install ekphos
 
 ## Code insight
 
-Total: **43,058** lines of code across **121** files in the top 5 languages.
+Total: **47,280** lines of code across **127** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 42,516 | 147 | 2,788 | 113 |
-| Toml | 288 | 30 | 41 | 5 |
+| Rust | 46,737 | 147 | 3,027 | 119 |
+| Toml | 289 | 30 | 41 | 5 |
 | Makefile | 132 | 27 | 28 | 1 |
 | Nix | 65 | 1 | 9 | 1 |
 | Dockerfile | 39 | 15 | 15 | 1 |
@@ -33,26 +33,26 @@ Total: **43,058** lines of code across **121** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.50.0` (2026-09-14)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-09-23
 
 ## Popularity
 
-- **Stars**: 7 · **Forks**: 0 · **Open issues**: 0 · **Contributors**: 1
+- **Stars**: 8 · **Forks**: 0 · **Open issues**: 0 · **Contributors**: 1
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 274
+- **Releases**: 1 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 280
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 1 | 0 | 0 | 0 | 0 | 28 |
-| last60d | 2026-07-25 | 1 | 0 | 0 | 0 | 0 | 39 |
-| 90d | 2026-06-25 | 1 | 0 | 0 | 0 | 0 | 39 |
-| last180d | 2026-03-27 | 1 | 0 | 0 | 0 | 0 | 69 |
-| 360d | 2025-09-28 | 1 | 0 | 0 | 0 | 0 | 258 |
-| last720d | 2024-10-03 | 1 | 0 | 0 | 0 | 0 | 274 |
+| 30d | 2026-08-25 | 1 | 0 | 0 | 0 | 0 | 34 |
+| last60d | 2026-07-26 | 1 | 0 | 0 | 0 | 0 | 45 |
+| 90d | 2026-06-26 | 1 | 0 | 0 | 0 | 0 | 45 |
+| last180d | 2026-03-28 | 1 | 0 | 0 | 0 | 0 | 75 |
+| 360d | 2025-09-29 | 1 | 0 | 0 | 0 | 0 | 264 |
+| last720d | 2024-10-04 | 1 | 0 | 0 | 0 | 0 | 280 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for ekphos lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T02:19:08Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T02:04:13Z._
