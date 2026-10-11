@@ -131,4 +131,3 @@ total:
 ---
 
 ---
-{"id":388768232,"author":{"login":"hanebox","id":109069184,"node_id":"U_kgDOBoBDgA","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOUK5Nls4XLCHo","tag_name":"v0.50.0","target_commitish":"main","name":"v0.50.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-14T23:05:53Z","updated_at":"2026-09-14T23:17:59Z","published_at":"2026-09-14T23:17:59Z","assets":[],"body":"Ekphos has moved to https://github.com/nostacks/ekphos.\n\n  Update with:\n\n      cargo install ekphos --locked\n\n  Full release notes: https://github.com/nostacks/ekphos/releases/tag/v0.50.0"}
